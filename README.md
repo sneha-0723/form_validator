@@ -1,5 +1,5 @@
 # form_validator
-A simple application built using node js ,express ,mongodb and ejs for verifying the format of the contents of a form and adding credentials to the database.
+A simple application for built using node js ,express ,mongodb and ejs for verifying the format of the contents of a form and adding credentials to the database.
 # npm packages used
 1. express
 2. express validator
